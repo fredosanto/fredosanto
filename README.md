@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+📚 Currently learning and studying front-end development.
+💻 Repos are both school projects or my own. 
+🛠 HTML, CSS, JS
+
 
 <!--
 **fredosanto/fredosanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
