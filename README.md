@@ -1,6 +1,8 @@
 ### Hi 👋
 📚 Currently learning and studying front-end development.
+
 💻 Repos are both school projects or my own. 
+
 🛠 HTML, CSS, JS
 
 
