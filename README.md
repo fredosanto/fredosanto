@@ -3,7 +3,7 @@
 
 💻 Repos are both school projects and my own work. 
 
-🛠 HTML, CSS, JS
+🛠 HTML, CSS, JS, React, Vite, Tailwind.
 
 
 <!--
