@@ -9,6 +9,8 @@
 
 🚀 Looking for new challenges!
 
+Visit my [portfolio](https://fredericksantos.netlify.app/).
+
 
 <!--
 **fredosanto/fredosanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
