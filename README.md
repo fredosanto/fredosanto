@@ -1,9 +1,13 @@
-### Hi 👋
-📚 I'm currently learning and studying front-end development.
+### Hi, my name is Frederick! 👋
+📚 Newly graduated front-end developer.
 
-💻 Repos are both school projects and my own work. 
+💻 Repos are both school projects and my own work/projects. 
 
-🛠 HTML, CSS, JS, React, Vite, Tailwind.
+🛠 React, JS, HTML, CSS/SCSS, Tailwind, Bootstrap, Vite.
+
+🦹🏽‍♂️ Love to learn new things, now trying to learning TypeScript.
+
+🚀 Looking for new challenges!
 
 
 <!--
